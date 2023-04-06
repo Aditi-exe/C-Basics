@@ -1,3 +1,5 @@
+// Taking an integer, a float and a character as uer input and printing the same using one print statement
+
 #include <stdio.h>
 
 int main()
