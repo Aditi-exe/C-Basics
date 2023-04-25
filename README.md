@@ -92,4 +92,5 @@ int main()
 
 Output:
 
+![basics.c output](https://github.com/Aditi-exe/C-Basics/blob/main/basics1.PNG)
 
