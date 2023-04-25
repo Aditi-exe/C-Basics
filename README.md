@@ -60,7 +60,7 @@ char ch_arr[7] = {'f', 'a', 'y', 't', 'w', 'n', 'o'};
 
 The program in this repository demonstrates the usage of a few of the above mentinoed data types and how they can be implemented in other places.
 
-Code:
+###Code:
 
 ```
 // Taking an integer, a float and a character as uer input and printing the same using one print statement
@@ -90,7 +90,7 @@ int main()
 }
 ```
 
-Output:
+###Output:
 
 ![basics.c output](https://github.com/Aditi-exe/C-Basics/blob/main/basics1.PNG)
 
